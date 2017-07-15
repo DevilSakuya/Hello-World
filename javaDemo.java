@@ -6,6 +6,7 @@ public class javaDemo{
 		for(int i=0;i<args.length;i++){
 			System.out.println("第"+i+"个参数为："+args[i]);
 		}
+
 		System.out.println("hello word");
 		System.out.println("doSomeing");
 		System.out.println("just do it");
