@@ -11,3 +11,6 @@ just join
   
 # 2017-08-06 添加新日志
   新日志
+
+# 2017-08-06 test branch new log
+  test branch log
