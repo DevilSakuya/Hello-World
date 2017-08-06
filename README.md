@@ -8,3 +8,6 @@ just join
 # 2017-07-15 linux上上传javaDemo.java
 
   上传javaDemo.java文件
+  
+# 2017-08-06 添加新日志
+  新日志
